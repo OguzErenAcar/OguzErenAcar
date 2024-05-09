@@ -53,7 +53,8 @@
 </div>
 
 ###
-
+<br>
+<br>
 <h3 align="left">Hi Everyone I'm Oğuz:<br><br>I develop projects with React and write node APIs.</h3>
 
 ###
