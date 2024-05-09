@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
   <img height="200" src="https://i.hizliresim.com/f7143gp.png"  />
 </div>
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="center">Social Media</h3>
+<h3 align="center">Social Media<br><br>🛠 Language and tools</h3>
 
 ###
 
@@ -19,10 +19,6 @@
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
 </div>
-
-###
-
-<h3 align="center">🛠 Language and tools</h3>
 
 ###
 
@@ -58,19 +54,15 @@
 
 ###
 
-<h3 align="left">Hi Everyone I'm Oğuz<br>I develop projects with React and write node APIs.</h3>
+<h4 align="left">Hi Everyone I'm Oğuz:<br><br>I develop projects with React and write node APIs.</h4>
 
 ###
 
-<h3 align="left">About Me</h3>
+<h3 align="left"></h3>
 
 ###
 
-<p align="left">I develop projects with React and write node APIs.</p>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">My Stats :</h3>
 
 ###
 
