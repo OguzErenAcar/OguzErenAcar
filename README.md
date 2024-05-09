@@ -1,10 +1,28 @@
-<div align="center">
+ <div align="center">
   <img height="200" src="https://i.hizliresim.com/f7143gp.png"  />
 </div>
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=OguzErenAcar.OguzErenAcar&"  />
+</div>
+
+###
+
+<h3 align="center">Social Media</h3>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+</div>
+
+###
+
+<h3 align="center">🛠 Language and tools</h3>
 
 ###
 
@@ -40,29 +58,15 @@
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-</div>
+<h3 align="left">Hi Everyone I'm Oğuz<br>I develop projects with React and write node APIs.</h3>
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=OguzErenAcar.OguzErenAcar&"  />
-</div>
+<h3 align="left">About Me</h3>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
- 
-
-###
-
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I develop projects with React and write node APIs.</p>
 
 ###
 
