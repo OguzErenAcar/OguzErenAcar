@@ -56,11 +56,10 @@
 <br>
 <br>
 <h3 align="left">Hi Everyone I'm Oğuz</h3>
-<br>
+
 <h4 align="left">I develop projects with React and write node APIs.</h4>
-
-
-
+<br>
+ 
 <h3 align="left">My Stats :</h3>
 
 ###
