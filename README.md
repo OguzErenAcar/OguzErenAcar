@@ -61,8 +61,6 @@
 </div>
 
 ###
-###
-<br>
 <br>
 <h3 align="left">Hi Everyone I'm Oğuz</h3>
 
