@@ -65,12 +65,6 @@
 <h4 align="left">I develop projects with React and write node APIs. I studied computer engineering at Erzurum Technical University and since then I have been devoted to constantly improving myself in this sector. I always try to take forward steps and focus on constantly improving myself. I aim to leave a mark in the field of technology with my contributions and projects, because I believe that everything is possible with passion and dedication.</h4>
 <br>
  
-<h3 align="left">My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=OguzErenAcar&locale=en&mode=daily&theme=aura&hide_border=true&border_radius=10&order=3" height="150" alt="streak graph"  />
- </div>
+ 
 
 ###
